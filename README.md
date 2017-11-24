@@ -4,6 +4,6 @@ A simple PHP Bridge to allow Sonoff switches running ESPEasy to be used in Home 
 
 # Usage
 
-Syntax : http://<IPADDRESS>/sonoff_easyesp.php?action=<ACTION>&ip=<SONOFF IP>
+Syntax : http://**MYWEBSERVER**/sonoff_easyesp.php?action=**ACTION**&ip=**SONOFF IP**
 
 ACTIONS : on, off, state
